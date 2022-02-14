@@ -16,4 +16,13 @@ Finance é um projeto pessoal feito pensando em praticidade na hora de controlar
  
  #en-Us
  
- Finance is a personal project made with praticity in mind when someone needs to control their own personal finances. Finance can make simulations using invoices made by the program. With that you can see what you will pay if you buy something, creating a clear visualization about your finances. 
+Finance is a personal project made with praticity in mind, for someone needs to control their own personal finances. Finance can make simulations using invoices made by the program. With that you can see what you will pay if you buy something, creating a clear visualization about your finances. 
+
+#Used Tecnologies:
+  .C#
+  .Windows Forms
+  .Entity Framework Core
+  . SGBD: SQL Server, SQL Server Management Studio
+  . Versioning: git
+ 
+ 
